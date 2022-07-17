@@ -63,7 +63,7 @@ function Home() {
                   fontFamily: "Poppins",
                   padding: "0px 25px",
                 }}
-                href="/About"
+                href="/about"
               >
                 About
               </Nav.Link>
@@ -74,7 +74,7 @@ function Home() {
                   fontFamily: "Poppins",
                   padding: "0px 25px",
                 }}
-                href="/Resume"
+                href="/resume"
               >
                 Resume
               </Nav.Link>

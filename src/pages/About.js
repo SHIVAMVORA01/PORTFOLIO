@@ -35,7 +35,7 @@ function About() {
                   fontFamily: "Poppins",
                   padding: "0px 25px",
                 }}
-                href="/About"
+                href="/about"
               >
                 About
               </Nav.Link>
@@ -46,7 +46,7 @@ function About() {
                   fontFamily: "Poppins",
                   padding: "0px 25px",
                 }}
-                href="/Resume"
+                href="/resume"
               >
                 Resume
               </Nav.Link>
