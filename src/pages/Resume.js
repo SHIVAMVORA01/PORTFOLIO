@@ -57,16 +57,10 @@ function Resume() {
         </Container>
       </Navbar>
       <div className="pdfDiv">
-        {/* <object
-          data="/pdf/resume.pdf"
-          type="application/pdf"
-          width="100%"
-          height="100%"
-        ></object> */}
+     
         <iframe
-        //   frameborder="0"
-        //   scrolling="no"
-            name="Resume"
+      
+          name="Resume"
           src="/pdf/resume.pdf#toolbar=0"
           height="1000px"
           width="100%"
