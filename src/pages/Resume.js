@@ -1,13 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "../css/Resume.css";
 import {
-  Row,
-  Col,
   Nav,
   Navbar,
-  Container,
-  Card,
-  Button,
+  Container
 } from "react-bootstrap";
 
 function Resume() {
@@ -59,7 +55,7 @@ function Resume() {
       <div className="pdfDiv">
      
         <iframe
-      
+          title="resume of shivam"
           name="Resume"
           src="/pdf/resume.pdf#toolbar=0"
           height="1000px"
