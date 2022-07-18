@@ -5,6 +5,18 @@
   justify-content: center;
 }
 
+.cardtitle{
+  font-family: "Poppins";
+  font-weight: bold;
+}
+
+.mt3, .buttonOfHome{
+  font-family: "Poppins";
+}
+
+.mt-3 card-text{
+  font-family: "Poppins";
+}
 .HeaderContent {
   display: flex;
   flex-direction: column;

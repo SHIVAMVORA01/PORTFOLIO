@@ -138,6 +138,7 @@ function Home() {
                 paddingTop: "2%",
                 paddingLeft: "4%",
                 paddingRight: "4%",
+                textAlign: "center",
               }}
             ></div>
             <Row>
@@ -147,20 +148,17 @@ function Home() {
                   <Card.Img
                     style={{ height: "250px" }}
                     variant="top"
-                    src="/images/datavisual.jpg"
+                    src="/images/datavisual.png"
                   />
                   <Card.Body>
-                    <Card.Title>PROVIDE DATA INSIGHTS</Card.Title>
+                    <Card.Title className="cardtitle">Placement Test Portal</Card.Title>
                     <Card.Text className="mt-3">
-                      Easy and strcutured way of uploading excels and achieve
-                      variety of Interactive visualizations. Easy and strcutured
-                      way of uploading excels and achieve variety of Interactive
-                      visualizations.
+                      This portal helps the faculty placement coordinators identify and assess students' key skills and expertise, as well as their readiness for placements. 
                     </Card.Text>
                   </Card.Body>
-                  <Link to="dataanalysis">
-                    <button className="buttonOfHome">Data Analysis</button>
-                  </Link>
+                  <a a href="https://placement-portal-test.netlify.app/">
+                    <button className="buttonOfHome">View</button>
+                  </a>
                 </Card>
               </Col>
               <Col className="projectCol">
@@ -169,19 +167,17 @@ function Home() {
                   <Card.Img
                     variant="top"
                     style={{ height: "250px" }}
-                    src="/images/fellowAnalytic.jpg"
+                    src="/images/fellowAnalytic.png"
                   />
-                  <Card.Body>
-                    <Card.Title>INDIVIDUAL FELLOW ANALYTICS</Card.Title>
+                   <Card.Body>
+                    <Card.Title className="cardtitle">Student Portal</Card.Title>
                     <Card.Text className="mt-3">
-                      Advanced Analytics to assess each fellow so as to enable
-                      wider view of Organization. Advanced Analytics to assess
-                      each fellow so as to enable wider view of Organization
+                    This profile portal assists the faculty mentors to identify the key skills and expertise of students to write effective LORs for them. 
                     </Card.Text>
                   </Card.Body>
-                  <Link to="fellow">
-                    <button className="buttonOfHome">Fellow Data</button>
-                  </Link>
+                  <a a href="https://djsce-it-student-portal.netlify.app/">
+                    <button className="buttonOfHome">View</button>
+                  </a>
                 </Card>
               </Col>
               <Col className="projectCol">
@@ -193,17 +189,13 @@ function Home() {
                     src="/images/phone.jpg"
                   />
                   <Card.Body>
-                    <Card.Title>EFFICIENT DATA COLLECTION</Card.Title>
+                    <Card.Title className="cardtitle">The Breakout Hunt</Card.Title>
                     <Card.Text className="mt-3">
-                      Uniquely designed Automatic Excel Data Error Indicator.
-                      Simple And Robust Interface for new systems. Uniquely
-                      designed Automatic Excel Data Error Indicator. Simple And
-                      Robust Interface for new systems
-                    </Card.Text>
+                    Redesigned The UI for The Breakout Hunt app which is India's first and only breakout scanner app that helps you scan stocks that are on the verge of breakout </Card.Text>
                   </Card.Body>
-                  <Link to="/form">
-                    <button className="buttonOfHome">Add Form</button>
-                  </Link>
+                  <a a href="https://play.google.com/store/apps/details?id=www.breakouthunt.thebreakouthunt&hl=en_IN&gl=US">
+                    <button className="buttonOfHome">View</button>
+                  </a>
                 </Card>
               </Col>
             </Row>

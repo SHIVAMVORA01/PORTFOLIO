@@ -79,7 +79,7 @@ function About() {
                 <br />
                 <span>
                   <a
-                    href="/#"
+                    href="mailto:vorashivam24@gmail.com"
                     style={{
                       color: "#000",
                       fontSize: "90%",
@@ -90,7 +90,7 @@ function About() {
                       fontFamily: "Poppins",
                     }}
                   >
-                    vorashivam24@gmail.com | +91 8369073762
+                    vorashivam24@gmail.com 
                   </a>
                 </span>
               </p>
