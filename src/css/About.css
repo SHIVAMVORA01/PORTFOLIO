@@ -200,13 +200,23 @@ body {
 
 /*Media queries */
 /*Mobile*/
-@media (min-width: 360px) {
+@media (min-width: 320px) {
   .mypic {
     width: 10%;
     min-width: 300px;
     align-self: center;
-    margin-left: 70px;
   }
+
+  .txt61 {
+    position: relative;
+    padding-top: 4%;
+    padding-left: 5%;
+    font-family: "Poppins";
+    color: #000;
+    font-size: 150%;
+    line-height: 150%;
+  }
+  
 }
 
 /*tablets*/
@@ -644,18 +654,18 @@ header {
   padding-left: 5%;
   font-family: "Poppins";
   color: #000;
-  font-size: 250%;
+  font-size: 150%;
   line-height: 150%;
 }
 
-.txt6 {
+.txt61 {
   position: relative;
   padding-top: 4%;
   padding-left: 5%;
   font-family: "Poppins";
   color: #000;
-  font-size: 250%;
-  line-height: 150%;
+  font-size: 150%;
+  line-height: 160%;
 }
 
 @media screen and (max-width: 1000px) {

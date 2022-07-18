@@ -143,7 +143,7 @@ function About() {
       </div>
       <div id="contact" style={{ background: "#000" }}>
         <div style={{ paddingBottom: "2%" }} className="frame">
-          <p className="txt6 wrap" style={{ fontSize: "200%", color: "white" }}>
+          <p className="txt61" style={{color: "white" }}>
             Mesmerised by what you see??
             <br /> View my{" "}
             <a

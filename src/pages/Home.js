@@ -211,7 +211,7 @@ function Home() {
         </div>
         <div id="contact" style={{ background: "#000" }}>
           <div style={{ paddingBottom: "2%" }} className="frame">
-            <p className="txt6" style={{ fontSize: "200%", color: "white" }}>
+            <p className="txt6">
               Mesmerised by what you see??
               <br /> View my{" "}
               <a
@@ -268,7 +268,6 @@ function Home() {
                     height={30}
                     viewBox="0 0 30 30"
                   >
-                    <desc> Created with Sketch.</desc>
                     <g fill="none">
                       <g fill="#FFF">
                         <path d="M0.8 9.6L6.6 9.6 6.6 30 0.8 30 0.8 9.6ZM3.5 7.1L3.5 7.1C1.4 7.1 0 5.5 0 3.5 0 1.5 1.4 0 3.6 0 5.7 0 7.1 1.5 7.1 3.5 7.1 5.5 5.7 7.1 3.5 7.1L3.5 7.1ZM30 30L23.4 30 23.4 19.5C23.4 16.7 22.3 14.8 20.1 14.8 18.3 14.8 17.3 16.1 16.9 17.3 16.7 17.7 16.7 18.4 16.7 19L16.7 30 10.2 30C10.2 30 10.3 11.3 10.2 9.6L16.7 9.6 16.7 12.8C17.1 11.4 19.2 9.4 22.6 9.4 26.7 9.4 30 12.4 30 18.7L30 30 30 30Z" />
