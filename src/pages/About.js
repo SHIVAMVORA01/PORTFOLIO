@@ -213,7 +213,7 @@ function About() {
             <p
               style={{
                 paddingLeft: "5%",
-                fontSize: "100%",
+                fontSize: "80%",
                 letterSpacing: "0.1em",
                 fontFamily: "Poppins",
                 color: "#fff",
