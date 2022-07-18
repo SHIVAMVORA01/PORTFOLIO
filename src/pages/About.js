@@ -148,7 +148,7 @@ function About() {
             <br /> View my{" "}
             <a
               style={{ color: "#36BC77", textDecoration: "none" }}
-              href="/#"
+              href="/resume"
               target="_blank"
             >
               résumé
